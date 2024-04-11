@@ -13,7 +13,7 @@
     "golden-fleece": "1.0.9",
     "joi": "17.7.0",
     "log-symbols": "4.1.0",
-    "semver": "7.5.2",
+    "semver": "7.5.3",
     "terminal-link": "2.1.1",
     "tslib": "2.4.1"
   },
